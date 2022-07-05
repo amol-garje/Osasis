@@ -1,0 +1,36 @@
+body
+{
+  background-color: aliceblue;
+}
+.A
+{
+  text-align: center;
+  color:chartreuse;
+  background-color: darkcyan;
+  margin-top: 2cm;
+  background-size: 20px;
+  font-size: 30px;
+ 
+}
+.B li
+{
+  font-size: 20px;
+    margin-top:12px ;
+    color: black;
+}
+fieldset{
+  margin-top: 2cm;
+}
+.INF
+{
+  margin-left: 2cm;
+}
+.Img img
+{
+   margin-left: 3px;
+   border: 2px solid red;
+   border: 2px solid red;
+   margin-top: 2cm;
+   margin-left: 5cm;  
+    box-shadow: 50px 40px 30px 30px rgb(146, 182, 135);
+}

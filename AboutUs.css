@@ -1,0 +1,74 @@
+#Z{
+    animation-duration: 10px;
+    animation-duration: 5s;
+    animation-iteration-count:infinite;
+}
+#X{
+    animation-duration: 10px;
+    animation-duration: 5s;
+    animation-iteration-count:infinite;
+    animation-name:amol;
+    margin-left: 130px;
+}
+#C{
+    animation-duration: 10px;
+    animation-duration: 5s;
+    animation-iteration-count:infinite;
+    margin-left: 55px;
+    margin-left: 130px;
+}
+#B{
+    animation-duration: 10px;
+    animation-duration: 5s;
+    animation-iteration-count:infinite;
+    margin-left: 65px;
+    margin-left: 120px;
+}
+#S{
+    animation-duration: 5px;
+    animation-duration: 10s;
+    animation-iteration-count:infinite;
+    text-align: center;
+}
+
+.PPP{
+    flex: content;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+.A{
+    width: 200px;
+    height: 200px;
+    border: 1px solid rebeccapurple;
+    margin-top: 30px;
+    margin-left: 80px;
+    object-position: top center;
+}
+#Z{
+    margin-left: 150px;
+}
+#table{
+    margin-top: 70px;
+    column-count: 3;
+}
+.k{
+    font-size: 25px;
+    text-decoration: none;
+    margin-bottom: 80px;
+}
+.bo{
+    color: white;
+    padding: 20px;
+     background-color: blue;
+     height: 40px;
+    
+}
+.fa-brands{
+    padding-left: 40px;
+    float:right;
+}
+.animate__animated{
+    animation-iteration-count:infinite;
+    animation-duration: 3s;
+}

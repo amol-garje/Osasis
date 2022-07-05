@@ -1,0 +1,78 @@
+@font-face{
+    font-family: "Amol";
+    src: url(Fonts/Monoton/Monoton-Regular.ttf);
+   }
+   @font-face{
+       font-family: "Ea";
+       src: url(Fonts/Alex_Brush/AlexBrush-Regular.ttf);
+      }
+      body{
+          background-color:rgba(100, 200, 122, 0);
+   
+      }
+   .c2 {
+       text-align: center;
+       /* background-color: rgb(189, 210, 212); */
+   }
+   
+   .c {
+       image-orientation: from-image;
+       /* background-image: -moz-element(from-image); */
+       /* border-image-repeat: inherit; */
+       image-orientation: inherit;
+       float: none;
+       /* background-image: url(cloud.jpg); */
+       /* background-attachment: fixed; */
+   }
+   
+   .c3 {
+       /* background-color: rgb(175, 189, 201); */
+       text-decoration: dotted;
+       text-shadow: 0ex;
+       font-size: x-large;
+       ruby-span: inherit;
+       
+       border: 1px solid yellow;
+       /* background: rgb(221, 210, 210); */
+   }
+   .c3 p{
+      font-variant: small-caps;
+   text-align: center;
+   }
+   .c3 h2{
+      font-family: amol;
+      text-align: center;
+   }
+   .c4 {
+       background-color: aliceblue;
+   }
+   
+   .f1 {
+       background-color: aliceblue;
+   }
+   
+   .w {
+       background-color: aliceblue;
+       /* background-color: #74992e; */
+       ;
+   }
+   .A{
+       float: right        ;
+   }
+   /* .AA{
+       float: left;
+   } */
+   .Q{
+     
+       float: none;
+       
+   }
+   .c3::first-letter{
+       font-size: 35px;
+   }
+   .Q h1{
+       color: rgb(34, 39, 30);
+       font-family: Ea;
+       font-size: 60px;
+       text-shadow: 30px 23px 8px rgb(177, 147, 0);
+   }
